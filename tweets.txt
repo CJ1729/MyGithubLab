@@ -1,2 +1,4 @@
 this is the place for tweets.
 we can add quotes and new thougts.
+
+ex.. "I'm a cage, in serach of a bird"
